@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Quick Start 
-permalink: /getstarted/
+title: Overview 
+permalink: /introduction/
 ---
 
 Here is the fastest way to get up and running with MrQual. 
