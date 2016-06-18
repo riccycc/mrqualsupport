@@ -7,6 +7,7 @@ permalink: /user-guide/
 <ul>
   <li>Themes</li>
   <li>Rooms</li>
+  <li>Tags</li>
   <li>Languages</li>
   <li>Transcripts</li>
   <li>Payments</li>
