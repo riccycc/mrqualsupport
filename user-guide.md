@@ -12,6 +12,7 @@ permalink: /user-guide/
   <li>Transcripts</li>
   <li>Payments</li>
   <li>Adding moderators</li>
+  <li>Adding administrators</li>
 </ul>
 </nav>
 
