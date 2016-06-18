@@ -11,6 +11,7 @@ permalink: /user-guide/
   <li>Languages</li>
   <li>Transcripts</li>
   <li>Payments</li>
+  <li>Adding previous participants</li>
   <li>Adding moderators</li>
   <li>Adding administrators</li>
 </ul>
