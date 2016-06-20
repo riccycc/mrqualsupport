@@ -6,6 +6,9 @@ permalink: /user-guide/
 <nav>
 <ul>
   <li>Questions</li>
+  <ul>
+  <li>Reveal sequentially</li>
+  </ul>
   <li>Themes</li>
   <li>Rooms</li>
   <li>Tags</li>
