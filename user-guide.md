@@ -8,7 +8,8 @@ permalink: /user-guide/
   <li>Questions</li>
   <ul>
   <li>Reveal sequentially</li>
-  </ul>
+  <li>Timed release</li>
+    </ul>
   <li>Themes</li>
   <li>Rooms</li>
   <li>Tags</li>
