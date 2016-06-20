@@ -5,6 +5,7 @@ permalink: /user-guide/
 ---
 <nav>
 <ul>
+  <li>Questions</li>
   <li>Themes</li>
   <li>Rooms</li>
   <li>Tags</li>
